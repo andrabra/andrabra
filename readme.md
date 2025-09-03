@@ -1,14 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Привет!%20Я%20Андрей👋&fontSize=40&fontColor=fff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Andrew👋&fontSize=40&fontColor=fff&animation=twinkling)
 
-💻 **Фронтенд-разработчик с любовью к современным фреймворкам**
+**💻 Frontend Developer | ⚡ React / Angular / Vue | 🎨 UI/UX Enthusiast**
 
-Мне нравится создавать интуитивные и отзывчивые пользовательские интерфейсы, которые делают взаимодействие с веб-приложениями приятным и эффективным. Постоянно учусь новому и слежу за трендами в разработке.
+I love building modern, intuitive, and responsive user interfaces that make web applications enjoyable and efficient to use.  
+Always curious, always learning — staying up to date with the latest trends in frontend development.
 
-<!-- > *"В мире фронтенда нет предела совершенству - каждый день приносит новые возможности для роста и создания чего-то удивительного"* -->
+<!-- > *"In frontend, perfection has no limits — every day brings new opportunities to grow and create something amazing."* -->
 
-## 🛠️ Мой технологический стек
+## 🛠️ Tech Stack
 
-### Frontend Development
+### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -37,23 +38,23 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
-## 📊 Статистика GitHub
+## 📊 GitHub Stats
 
-![Ваша статистика](https://github-readme-stats.vercel.app/api?username=andrabra&show_icons=true&theme=radical&hide_border=true)
-![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=andrabra&layout=compact&theme=radical&hide_border=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=andrabra&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrabra&layout=compact&theme=radical&hide_border=true)
 
+## 🚀 Featured Projects
 
-## 🚀 Мои проекты
+### 🍳 [Kitchen Calculator App](https://github.com/andrabra/kitchen-calc-app)  
+📌 A React app for scaling recipes and keeping proportions consistent.  
+Stack: ![React](https://img.shields.io/badge/-React-blue?logo=react) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
 
-### [🍳 Кухонное приложение](https://github.com/andrabra/kitchen-calc-app)  
-📌 React-приложение для расчёта пропорций рецептов  
-![React](https://img.shields.io/badge/-React-blue?logo=react) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
+---
+### 🍪 [Cookie Store](https://github.com/yourusername/project2)  
+📌 Angular e-commerce demo app with RxJS and NgRx state management.  
+Stack: ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![NgRx](https://img.shields.io/badge/-NgRx-BA2BD2?logo=ngrx&logoColor=white)
 
-
-### [Магазин печенья](https://github.com/yourusername/project2)
-📌 Angular приложение с использованием RxJS и NgRx
-
-## 📞 Контакты
+## 📞 Get in Touch
 
 <p align="left">
   <a href="mailto:andrabragames@gmail.com">
@@ -62,15 +63,9 @@
   <a href="https://t.me/andrabrabra">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <!-- <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
-  </a> -->
 </p>
 
-## 💡 Обо мне
+## 💡 About Me
 
 ```javascript
 const aboutMe = {
@@ -81,10 +76,7 @@ const aboutMe = {
     vue: ['Composition API', 'Pinia', 'Vue Router']
   },
   passions: ['UI/UX Design', 'Performance Optimization', 'Clean Code'],
-  currentGoal: 'Создание масштабируемых и доступных веб-приложений',
-  hobbies: ['Готовка 🍳', 'Игры 🎮', 'Музыка 🎧'],
+  currentGoal: 'Building scalable and accessible web applications',
+  hobbies: ['Cooking 🍳', 'Gaming 🎮', 'Music 🎧'],
   learning: ['React Native', 'GraphQL'],
 };
-```
----
-⭐️ Если вам понравились мои проекты — ставьте звёздочку на репозитории!
